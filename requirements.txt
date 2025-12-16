@@ -3,3 +3,4 @@ pandas>=2.0
 plotly>=5.18
 seaborn>=0.13
 matplotlib>=3.8
+xlrd>=2.0
